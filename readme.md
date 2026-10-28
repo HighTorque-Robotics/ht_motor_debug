@@ -2,7 +2,7 @@
 
 1. GitHub：https://github.com/HighTorque-Robotics/ht_motor_debug
 2. Gitee：https://gitee.com/high-torque/ht_motor_debug
-3. 说明文档：待更新
+3. 说明文档：https://lingdongfangcheng.feishu.cn/wiki/IWqawMYVNigQSQkFE45cavxmnXc
 
 
 
